@@ -1,0 +1,407 @@
+Instance Name	Instance2																																																		
+Water Sources	3	WS1	WS2	WS3																																															
+Process Units	4	PU1	PU2	PU3	PU4																																														
+Treatment Units	3	TU1	TU2	TU3																																															
+Buffer Units	0																																																		
+Water Destination	1	WD1																																																	
+Contaminants	7	C1	C2	C3	C4	C5	C6	C7																																											
+Time Periods (Planning Horizon)	4	T1	T2	T3	T4																																														
+Number of Time Cycles per Year	2000																																																		
+Maximum Number of Treatment Units	3																																																		
+Maximum Number of Pipes	117																																																		
+Maximum Pipe Capacity	100																																																		
+Number of Pipe Capacity Intervals	4																																																		
+Local Recycle Allowed	1																																																		
+Steady State	1																																																		
+																																																			
+																																																			
+																																																			
+					ContaminationConcentration(ppm)																																														
+WaterSource	Time	Cost($/ton)	MinFlow(tons/hr)	MaxFlow(tons/hr)	C1	C2	C3	C4	C5	C6	C7																																								
+WS1	T1	0.6	8	4021	545	1328	3122	1703	991	3322	3845																																								
+WS1	T2	0.6	8	4021	545	1328	3122	1703	991	3322	3845																																								
+WS1	T3	0.6	8	4021	545	1328	3122	1703	991	3322	3845																																								
+WS1	T4	0.6	8	4021	545	1328	3122	1703	991	3322	3845																																								
+WS2	T1	1	8	6370	2121	1432	3275	402	2654	6778	5477																																								
+WS2	T2	0	0	0	0	0	0	0	0	0	0																																								
+WS2	T3	0	0	0	0	0	0	0	0	0	0																																								
+WS2	T4	0	0	0	0	0	0	0	0	0	0																																								
+WS3	T1	0.7	4	5112	1336	270	2893	4662	2513	4186	6993																																								
+WS3	T2	0.7	4	5112	1336	270	2893	4662	2513	4186	6993																																								
+WS3	T3	0.7	4	5112	1336	270	2893	4662	2513	4186	6993																																								
+WS3	T4	0.7	4	5112	1336	270	2893	4662	2513	4186	6993																																								
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+							DischargsRate(tons/hr)															InFlowContaminationConcentration(ppm)															OutFlowContaminationConcentration(ppm)														
+ProcessUnit	MinFlow(tons/hr)	MaxFlow(tons/hr)	FlowBalance(tons/hr)	StartTime	Duration(hr)	EndTime	C1	C2	C3	C4	C5	C6	C7	C8	C9	C10	C11	C12	C13	C14	C15	C1	C2	C3	C4	C5	C6	C7	C8	C9	C10	C11	C12	C13	C14	C15	C1	C2	C3	C4	C5	C6	C7	C8	C9	C10	C11	C12	C13	C14	C15
+PU1	60	60	17	1	0	3	0.00004	0.00002	0.00001	0.00001	0.00001	0.00003	0.00004	1908	4667	842	5347	4306	1693	734	18063	11947	9995	6672	12915	17531	4455								
+PU2	176	176	15	2	0	3	0.00011	0.00007	0.00015	0.00034	0.00018	0.0001	0.00018	5973	7423	2501	5482	1169	2169	7238	19537	10553	10517	11980	8312	9271	15512								
+PU3	79	79	45	3	0	3	0.00001	0.00003	0.00003	0.00002	0.00002	0.00002	0.00003	1081	4750	5671	8281	2971	6477	6870	1858	5349	18243	21562	4767	12150	14542								
+PU4	117	117	54	1	0	3	0.00027	0.00018	0.00007	0.0003	0.00021	0.00025	0.00008	650	5026	7572	5496	6834	3661	2776	5834	11421	10250	24947	11014	14119	19340								
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+							Type1:ContaminationRemovalPercentage/Type2:OutFlowContaminationConcentration(ppm)															InFlowContaminationConcentration(ppm)																													
+TreatmentUnit	Type	InvestmentCostCoeff($/ton)	OperatingCostCoeff($/ton)	MinFlow(tons/hr)	MaxFlow(tons/hr)	Duration(hr)	C1	C2	C3	C4	C5	C6	C7	C8	C9	C10	C11	C12	C13	C14	C15	C1	C2	C3	C4	C5	C6	C7	C8	C9	C10	C11	C12	C13	C14	C15															
+TU1	1	961	3.7	17	1340	0	86	59	76	60	41	38	74	13273	4729	14740	5389	9447	3686	2038																							
+TU2	2	1629	1.3	9	1732	0	33	27	47	49	50	44	15	12519	5302	15099	2486	12637	11560	7183																							
+TU3	1	116	1.4	9	1331	0	37	42	44	48	87	68	47	5343	1730	2080	3725	13033	2196	2975																							
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+BufferUnit	Cost($)	Capacity(tons)																																																	
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+																																																			
+				ContaminationConcentration(ppm)																																															
+WaterDemand	Time	MinFlow(tons/hr)	MaxFlow(tons/hr)	C1	C2	C3	C4	C5	C6	C7																																									
+WD1	T1	15	2998	4112	6417	4351	5036	1288	6522	3017																																									
+WD1	T2	12	3111	5554	1240	1408	647	6607	5322	787																																									
+WD1	T3	23	5489	2827	2078	2126	2811	3494	1567	1370																																									
+WD1	T4	17	6008	988	4213	442	2246	5586	1639	936																																									
+																																																			
+EOF																																																			
